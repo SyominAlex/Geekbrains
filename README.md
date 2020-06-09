@@ -1,2 +1,2 @@
-# PHP Basic
-My homeworks for PHP Basic course
+# Geekbrains courses
+My homeworks for Geekbrains courses
